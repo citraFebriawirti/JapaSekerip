@@ -17,6 +17,7 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
     10. Set
     11. Browser Object Model
     12. Document Object Model
+        a. Event -> ex = OnClick(), etc.
     
 ### E. Intermediate JavaScript
     1.  Destructuring Object and Array
