@@ -15,6 +15,8 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
     8.  Object
     9.  Array
     10. Set
+    11. Browser Object Model
+    12. Document Object Model
     
 ### E. Intermediate JavaScript
     1.  Destructuring Object and Array
