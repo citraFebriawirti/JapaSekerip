@@ -20,7 +20,7 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
         a. Event -> ex = OnClick(), etc.
     
 ### E. Intermediate JavaScript
-    1.  Destructuring Object and Array
+    1.  Destructuring Object and Array +
     2.  Spread Operator
     3.  Map
     4.  WeakMap and WeakSet
