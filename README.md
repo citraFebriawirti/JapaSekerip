@@ -8,13 +8,13 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
     1.  Introduction to JavaScript I/O x
     2.  Variable and Comment x
     3.  Data Type x
-    4.  Operator +
-        a. Arithmetic
-        b. Assignment
-        c. Comparison
-        d. Logical
-    5.  If Else
-    6.  Switch Case
+    4.  Operator x
+        a. Arithmetic x
+        b. Assignment x
+        c. Comparison x
+        d. Logical x
+    5.  If Else x
+    6.  Switch Case x
     7.  Looping
     8.  Object
     9.  Array
