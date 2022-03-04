@@ -9,6 +9,10 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
     2.  Variable and Comment x
     3.  Data Type x
     4.  Operator +
+        a. Arithmetic
+        b. Assignment
+        c. Comparison
+        d. Logical
     5.  If Else
     6.  Switch Case
     7.  Looping
