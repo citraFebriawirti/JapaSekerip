@@ -36,6 +36,3 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
     
 ### F. TensorFlow.js
     Special Requirement -> please understand what is TensorFlow through Python
-
-### G. Plotly.js
-    Special Requirement -> please understand the basics of Data Visualization
