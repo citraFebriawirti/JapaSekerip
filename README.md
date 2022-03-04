@@ -5,10 +5,10 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
 ### B. Why JavaScript ?
 ### C. History Behind JavaScript
 ### D. Basic JavaScript
-    1.  Introduction to JavaScript I/O
-    2.  Variable and Comment
-    3.  Data Type
-    4.  Operator
+    1.  Introduction to JavaScript I/O x
+    2.  Variable and Comment x
+    3.  Data Type x
+    4.  Operator +
     5.  If Else
     6.  Switch Case
     7.  Looping
