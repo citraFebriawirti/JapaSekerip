@@ -42,7 +42,6 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
     Special Requirement -> please understand what is TensorFlow through Python
     
 ### G. JavaScript Notes
-    ```md
     1. Variable
     Names that we give to certain values in our programs.
     
@@ -51,4 +50,4 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
     
     3. Expression
     A combination of numbers, symbols, or other variables that produce a result when evaluated
-    ```
+ 
