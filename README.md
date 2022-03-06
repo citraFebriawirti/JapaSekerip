@@ -15,7 +15,7 @@ Bahasa pemrograman tingkat tinggi yang pada awalnya dikembangkan untuk membuat w
         d. Logical x
     5.  If Else x
     6.  Switch Case x
-    7.  Looping
+    7.  Looping x
     8.  Object
     9.  Array
     10. Set
